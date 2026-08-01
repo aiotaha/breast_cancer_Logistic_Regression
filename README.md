@@ -251,7 +251,7 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 or
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ---
